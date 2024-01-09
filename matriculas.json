@@ -1,0 +1,68 @@
+[
+  {
+    "camper_id": 123,
+    "ruta": "jva",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "salon": "poo",
+    "estado": "en riesgo"
+  },
+  {
+    "camper_id": 901,
+    "ruta": "java",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "salon": "poo",
+    "estado": "aprobado"
+  },
+  {
+    "camper_id": 90,
+    "ruta": "java",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "salon": "spuntki"
+  },
+  {
+    "camper_id": 902,
+    "ruta": "java",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "salon": "sputnik"
+  },
+  {
+    "camper_id": 902,
+    "ruta": "java",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "salon": "spuntik"
+  },
+  {
+    "camper_id": 902,
+    "ruta": "java",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "salon": "sputnki"
+  },
+  {
+    "camper_id": 902,
+    "ruta": "java",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "salon": ""
+  },
+  {
+    "camper_id": 904,
+    "ruta": "java",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "salon": "",
+    "estado": "aprobado"
+  },
+  {
+    "camper_id": 905,
+    "ruta": "java",
+    "fecha_inicio": "",
+    "fecha_fin": "",
+    "salon": ""
+  }
+]

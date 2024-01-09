@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "java",
+    "areas_entrenamiento": [
+      "fundamentos",
+      "mongo",
+      "springboot"
+    ],
+    "capacidad_maxima": 33,
+    "sgdb_principal": "front",
+    "sgdb_alternativo": "back",
+    "campers_asignados": [
+      902,
+      902,
+      902,
+      902,
+      904,
+      905
+    ],
+    "entrenador_asignado": "fernando"
+  }
+]
